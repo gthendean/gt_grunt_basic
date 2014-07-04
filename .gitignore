@@ -1,3 +1,4 @@
 node_modules
 gitstd.sh
 .tmp
+dist
